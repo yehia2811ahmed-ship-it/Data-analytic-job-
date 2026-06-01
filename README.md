@@ -80,5 +80,5 @@ RETURN "Data Scientist (" & FORMAT(Percentage, "0.0%") & ")"
 
 Here is the final single-page dark mode interactive dashboard:
 
-![Data Analytics Market Dashboard](dashboard_screenshot.png)
+![Data Analytics Market Dashboard](Untitled.png)
 
